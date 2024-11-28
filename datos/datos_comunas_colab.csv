@@ -1,0 +1,61 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Santiago,-33.4372,-70.6506,Chile,CL,Región Metropolitana,primary,7171000,236453
+Concepción,-36.8282,-73.0514,Chile,CL,Biobío,admin,719944,223574
+Puente Alto,-33.6167,-70.5667,Chile,CL,Región Metropolitana,minor,573935,573935
+Maipú,-33.5167,-70.7667,Chile,CL,Región Metropolitana,,521627,521627
+La Florida,-33.5333,-70.5833,Chile,CL,Región Metropolitana,,366916,366916
+Antofagasta,-23.6500,-70.4000,Chile,CL,Antofagasta,admin,348517,348517
+Viña del Mar,-33.0244,-71.5517,Chile,CL,Valparaíso,,332875,332875
+San Bernardo,-33.5833,-70.7000,Chile,CL,Región Metropolitana,minor,301313,301313
+Valparaíso,-33.0461,-71.6197,Chile,CL,Valparaíso,admin,296655,296655
+Temuco,-38.7333,-72.6667,Chile,CL,Araucanía,admin,282415,282415
+Las Condes,-33.4117,-70.5500,Chile,CL,Región Metropolitana,,249893,249893
+Rancagua,-34.1667,-70.7500,Chile,CL,Libertador General Bernardo O’Higgins,admin,231370,231370
+Peñalolén,-33.4833,-70.5500,Chile,CL,Región Metropolitana,,216060,216060
+Talca,-35.4269,-71.6656,Chile,CL,Maule,admin,206069,206069
+Coquimbo,-29.9531,-71.3433,Chile,CL,Coquimbo,minor,204068,204068
+Arica,-18.4778,-70.3181,Chile,CL,Arica y Parinacota,admin,202131,202131
+La Serena,-29.9000,-71.2500,Chile,CL,Coquimbo,admin,195382,195382
+Iquique,-20.2167,-70.1500,Chile,CL,Tarapacá,admin,188003,188003
+Puerto Montt,-41.4667,-72.9333,Chile,CL,Los Lagos,admin,169736,169736
+Chillán,-36.6000,-72.1167,Chile,CL,Ñuble,admin,164270,164270
+Osorno,-40.5725,-73.1353,Chile,CL,Los Lagos,minor,160000,160000
+Calama,-22.4667,-68.9333,Chile,CL,Antofagasta,minor,157575,157575
+Copiapó,-27.3664,-70.3331,Chile,CL,Atacama,admin,150804,150804
+Valdivia,-39.8139,-73.2458,Chile,CL,Los Ríos,admin,150048,150048
+Quilpué,-33.0500,-71.4500,Chile,CL,Valparaíso,minor,147991,147991
+Colina,-33.2017,-70.6703,Chile,CL,Región Metropolitana,minor,146209,146209
+Los Ángeles,-37.4667,-72.3500,Chile,CL,Biobío,minor,143023,143023
+Curicó,-34.9833,-71.2333,Chile,CL,Maule,minor,136954,136954
+Punta Arenas,-53.1667,-70.9333,Chile,CL,Magallanes y de la Antártica Chilena,admin,123403,123403
+Melipilla,-33.6253,-71.2711,Chile,CL,Región Metropolitana,minor,108540,108540
+San Antonio,-33.5933,-71.6217,Chile,CL,Valparaíso,minor,86239,86239
+Ovalle,-30.6000,-71.2000,Chile,CL,Coquimbo,minor,75864,75864
+Linares,-35.8500,-71.6000,Chile,CL,Maule,minor,73602,73602
+Quillota,-32.8667,-71.2500,Chile,CL,Valparaíso,minor,73261,73261
+San Felipe,-32.7500,-70.7239,Chile,CL,Valparaíso,minor,64120,64120
+Coyhaique,-45.5667,-72.0667,Chile,CL,Aysén,admin,61210,61210
+Los Andes,-32.8333,-70.6167,Chile,CL,Valparaíso,minor,59388,59388
+San Fernando,-34.5833,-70.9833,Chile,CL,Libertador General Bernardo O’Higgins,minor,58367,58367
+Talagante,-33.6667,-70.8667,Chile,CL,Región Metropolitana,minor,56990,56990
+Angol,-37.8000,-72.7167,Chile,CL,Araucanía,minor,48608,48608
+Vallenar,-28.5708,-70.7581,Chile,CL,Atacama,minor,45298,45298
+Castro,-42.4667,-73.8000,Chile,CL,Los Lagos,minor,33417,33417
+La Unión,-40.2833,-73.0833,Chile,CL,Los Ríos,minor,26517,26517
+Tocopilla,-22.0964,-70.2000,Chile,CL,Antofagasta,minor,24247,24247
+Lebu,-37.6000,-73.6667,Chile,CL,Biobío,minor,23722,23722
+Puerto Natales,-51.7333,-72.5167,Chile,CL,Magallanes y de la Antártica Chilena,minor,21477,21477
+Illapel,-31.6333,-71.1667,Chile,CL,Coquimbo,minor,20751,20751
+La Ligua,-32.4500,-71.2167,Chile,CL,Valparaíso,minor,19127,19127
+Puerto Aysén,-45.4000,-72.6833,Chile,CL,Aysén,minor,17441,17441
+Chañaral,-26.3444,-70.6219,Chile,CL,Atacama,minor,13143,13143
+Pichilemu,-34.3919,-72.0139,Chile,CL,Libertador General Bernardo O’Higgins,minor,12776,12776
+Pozo Almonte,-20.2667,-69.8000,Chile,CL,Tarapacá,minor,9277,9277
+Hanga Roa,-27.1333,-109.4167,Chile,CL,Valparaíso,minor,7163,7163
+Porvenir,-53.2833,-70.3667,Chile,CL,Magallanes y de la Antártica Chilena,minor,5992,5992
+Chaitén,-42.9167,-72.7000,Chile,CL,Los Lagos,minor,5071,5071
+Chile Chico,-46.5403,-71.7222,Chile,CL,Aysén,minor,3129,3129
+Cochrane,-47.2547,-72.5750,Chile,CL,Aysén,minor,2789,2789
+Puerto Williams,-54.9333,-67.6167,Chile,CL,Magallanes y de la Antártica Chilena,minor,1646,1646
+Putre,-18.1969,-69.5594,Chile,CL,Arica y Parinacota,minor,1366,1366
+Cauquenes,-35.9667,-72.3500,Chile,CL,Maule,minor,45,45
